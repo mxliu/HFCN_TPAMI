@@ -4,7 +4,7 @@ The code was written by Dr. Chunfeng Lian, Department of Radiology at UNC at Cha
 
 Introduction
 
-We propose a hierarchical fully convolutional network (H-FCN) to automatically identify discriminative local patches and regions in the whole brain sMRI, upon which multi-scale feature representations are then jointly learned and fused to construct hierarchical classification models for AD diagnosis.
+We propose a hierarchical fully convolutional network (HFCN) to automatically identify discriminative local patches and regions in the whole brain sMRI, upon which multi-scale feature representations are then jointly learned and fused to construct hierarchical classification models for AD diagnosis. We have two implementation versions: 2) HFCN without prior knowlege (no_prior), and 2) HFCN with prior knowledge (with_prior).
 
 
 Prerequisites
