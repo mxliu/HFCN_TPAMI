@@ -28,4 +28,5 @@ a. Source Code: train_all.py, train_pruned_step3.py, nhfcn_network.py, loss.py, 
 b. Pre-trained Model: ..\saved_model
 c. Data: ..\files
 
-
+If you use our code, please cite the following paper:
+Chunfeng Lian, Mingxia Liu, Jun Zhang, and Dinggang Shen. Hierarchical Fully Convolutional Network for Joint Atrophy Localization and Alzheimer's Disease Diagnosis using Structural MRI. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.
