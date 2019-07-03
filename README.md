@@ -25,6 +25,7 @@ Install numpywith pip install numpy
 Files
 
 a. Source Code: train_all.py, train_pruned_step3.py, nhfcn_network.py, loss.py, noprior_loader_all.py, predict_all.py, predict_pru_nhfcn.py, pruned_hfcn,py, and pruned_sequential_loader.py 
+
 b. Pre-trained Model: ..\saved_model
 
 
