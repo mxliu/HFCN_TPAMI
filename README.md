@@ -30,4 +30,5 @@ b. Pre-trained Model: ..\saved_model
 
 
 If you use our code, please cite the following paper:
+
 Chunfeng Lian, Mingxia Liu, Jun Zhang, and Dinggang Shen. Hierarchical Fully Convolutional Network for Joint Atrophy Localization and Alzheimer's Disease Diagnosis using Structural MRI. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.
