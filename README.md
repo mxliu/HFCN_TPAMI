@@ -1,6 +1,6 @@
-Keras implementation of Hierarchical Fully Convolutional Network for structrual MRI-based brain disease prognosis
+Hierarchical Fully Convolutional Network for Structrual MRI-based Brain Disease Prognosis
 
-The code was written by Dr. Chunfeng Lian and Dr. Mingxia Liu, Department of Radiology at UNC-CH. 
+The code was written by Dr. Chunfeng Lian, Department of Radiology at UNC at Chapel Hill. 
 
 Introduction
 
@@ -21,12 +21,12 @@ Install Keras and dependencies
 
 Install numpywith pip install numpy
 
+
 Files
 
 a. Source Code: train_all.py, train_pruned_step3.py, nhfcn_network.py, loss.py, noprior_loader_all.py, predict_all.py, predict_pru_nhfcn.py, pruned_hfcn,py, and pruned_sequential_loader.py 
-
 b. Pre-trained Model: ..\saved_model
-c. Data: ..\files
+
 
 If you use our code, please cite the following paper:
 Chunfeng Lian, Mingxia Liu, Jun Zhang, and Dinggang Shen. Hierarchical Fully Convolutional Network for Joint Atrophy Localization and Alzheimer's Disease Diagnosis using Structural MRI. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.
